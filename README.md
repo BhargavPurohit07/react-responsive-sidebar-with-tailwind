@@ -9,4 +9,4 @@ npm run dev
 ```
 
 #here is the web hosted link to check the desing 
-<a href="https://642a9ef5b9346d55bfc591b5--delightful-gumdrop-36873e.netlify.app/">click here for demo</a>
+<a href="https://main--delightful-gumdrop-36873e.netlify.app/">click here for demo</a>
