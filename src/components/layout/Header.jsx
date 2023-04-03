@@ -2,7 +2,7 @@ import { ReactComponent as MenuIcon } from "../../assets/menu-icon.svg";
 
 const Header = ({ show, setShow, isWidth }) => {
   return (
-    <div className="flex">
+    <div className="flex mb-4">
       {isWidth ? (
         <div
           className={`my-auto mr-6 cursor-pointer md:hidden ${
